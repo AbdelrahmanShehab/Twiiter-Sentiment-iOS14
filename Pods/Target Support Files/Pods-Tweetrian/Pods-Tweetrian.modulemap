@@ -1,0 +1,6 @@
+framework module Pods_Tweetrian {
+  umbrella header "Pods-Tweetrian-umbrella.h"
+
+  export *
+  module * { export * }
+}
